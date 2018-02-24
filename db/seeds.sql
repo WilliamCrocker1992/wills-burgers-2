@@ -1,0 +1,1 @@
+insert into burgers (burger_name) values ("Kamehameha Burger"), ("Krillin is Worthless Burger"), ("Bulma's Beef Burger");
